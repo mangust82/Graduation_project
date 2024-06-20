@@ -1,0 +1,378 @@
+version(O)	name(1)	sourceIp(2)	destIp(3)	srcPort(4)	destPort(5)	igmpStatus(6)	alarmTemplate(7)	VLANTCI(8)	payloadTemplate(9)	srcIpMask(10)	destIpMask(11)	BroadCast(12)	MACforARPReply(13)	channelNumber(15)	channelName(14)	channelAliasNumber(18)	deviceRef(22)	channelOffPeriod(32)	channelOffAirTemplate(33)	IGMP Sets(31)	RTP SSRC(35)	NonMediaProgram(37)	channelXRefName(201)	channelSourceId(20)	channelShortName(40)	AliasDetectionMode(43)	Ports(34)	Transport Stream ID(30)	DetectedProgramName(38)
+Video	None	No	No	No	No	Off	tsDefault	No	programDefault	255.255.255.255	255.255.255.255	No	No	No	No	No	No	No	No	0	No	No	No	0	No	No	1	No	No
+Video	Rossia 1 239.255.50.2	No	239.255.50.2	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Rossia 2 239.255.50.3	No	239.255.50.3	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Rossia-Kultura 239.255.50.6	No	239.255.50.6	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Rossia 24 239.255.50.7	No	239.255.50.7	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Bojcovskij klub 239.255.50.108	No	239.255.50.108	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Rossia HD 239.255.50.138	No	239.255.50.138	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Muzyka pervogo 239.255.50.99	No	239.255.50.99	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Vremja: dal i bl 239.255.50.114	No	239.255.50.114	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	SET 239.255.50.45	No	239.255.50.45	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Fox Life HD 239.255.50.130	No	239.255.50.130	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Fox HD 239.255.50.131	No	239.255.50.131	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Pervyj kanal HD 239.255.50.139	No	239.255.50.139	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nostalgija 239.255.50.140	No	239.255.50.140	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Sport 1 HD 239.255.50.123	No	239.255.50.123	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Pervyj 239.255.50.1	No	239.255.50.1	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	STS 239.255.50.10	No	239.255.50.10	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Evropa plus TV 239.255.50.100	No	239.255.50.100	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Sport 239.255.50.105	No	239.255.50.105	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	BOEC 239.255.50.107	No	239.255.50.107	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	KHL 239.255.50.109	No	239.255.50.109	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TNT 239.255.50.11	No	239.255.50.11	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Tiji 239.255.50.113	No	239.255.50.113	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Mnogo TV 239.255.50.115	No	239.255.50.115	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	India TV 239.255.50.117	No	239.255.50.117	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery HD Sho 239.255.50.118	No	239.255.50.118	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Russkij roman 239.255.50.120	No	239.255.50.120	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Eurosport 1 HD 239.255.50.122	No	239.255.50.122	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nickelodeon HD 239.255.50.126	No	239.255.50.126	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MTV Live HD 239.255.50.127	No	239.255.50.127	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nash futbol 239.255.50.128	No	239.255.50.128	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Disn 239.255.50.13	No	239.255.50.13	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	A-Media 2 239.255.50.132	No	239.255.50.132	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	REN 239.255.50.14	No	239.255.50.14	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MGM HD 239.255.50.142	No	239.255.50.142	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Travel Channel 239.255.50.144	No	239.255.50.144	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV Centr 239.255.50.15	No	239.255.50.15	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nastojash str TV 239.255.50.159	No	239.255.50.159	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV 3 Rossia 239.255.50.16	No	239.255.50.16	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Prem HD 239.255.50.160	No	239.255.50.160	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Meg HD 239.255.50.161	No	239.255.50.161	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Comedy HD 239.255.50.162	No	239.255.50.162	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	ViaH SD ViaN SD 239.255.50.216	No	239.255.50.216	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MUZ 239.255.50.164	No	239.255.50.164	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Music Box RU 239.255.50.165	No	239.255.50.165	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Music Box 239.255.50.166	No	239.255.50.166	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Kuhnja TV 239.255.50.168	No	239.255.50.168	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Avto Plus 239.255.50.169	No	239.255.50.169	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	U TV 239.255.50.17	No	239.255.50.17	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Eurosport 2 HD 239.255.50.171	No	239.255.50.171	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Candy TV SD 239.255.50.173	No	239.255.50.173	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Perec 239.255.50.18	No	239.255.50.18	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Boomerang 239.255.50.180	No	239.255.50.180	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Friday 239.255.50.19	No	239.255.50.19	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	A-one 239.255.50.20	No	239.255.50.20	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	2x2 239.255.50.21	No	239.255.50.21	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Istoriya 239.255.50.212	No	239.255.50.212	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	FOX 239.255.50.217	No	239.255.50.217	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Travel pl Adv SD 239.255.50.218	No	239.255.50.218	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Travel pl Adv HD 239.255.50.219	No	239.255.50.219	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Amedia Prem HD 239.255.50.220	No	239.255.50.220	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Amedia Prem SD 239.255.50.221	No	239.255.50.221	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Kinoluks 239.255.50.222	No	239.255.50.222	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nash footbal HD 239.255.50.223	No	239.255.50.223	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	SONY Turbo 239.255.50.224	No	239.255.50.224	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Zvezda 239.255.50.23	No	239.255.50.23	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Shopping live 239.255.50.24	No	239.255.50.24	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MPTS GEO  239.255.50.25	No	239.255.50.25	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery Chann 239.255.50.26	No	239.255.50.26	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Animal Planet 239.255.50.27	No	239.255.50.27	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Moja planeta 239.255.50.28	No	239.255.50.28	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Drive 239.255.50.29	No	239.255.50.29	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Ohota i rybalka 239.255.50.30	No	239.255.50.30	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Detskij mir 239.255.50.31	No	239.255.50.31	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Cartoon Network 239.255.50.32	No	239.255.50.32	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nickelodeon 239.255.50.33	No	239.255.50.33	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Multimania 239.255.50.34	No	239.255.50.34	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV XXI 239.255.50.35	No	239.255.50.35	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV 1000 239.255.50.36	No	239.255.50.36	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV 1000 Rus kin 239.255.50.37	No	239.255.50.37	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Dom kino 239.255.50.38	No	239.255.50.38	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	AXN SciFi 239.255.50.39	No	239.255.50.39	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	NTV 239.255.50.4	No	239.255.50.4	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Retro 239.255.50.40	No	239.255.50.40	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Russkij illjuz 239.255.50.41	No	239.255.50.41	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Illjuzion plus 239.255.50.42	No	239.255.50.42	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Kino Plus (NTVp) 239.255.50.43	No	239.255.50.43	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Universal 239.255.50.44	No	239.255.50.44	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Shanson 239.255.50.48	No	239.255.50.48	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	RU TV 239.255.50.49	No	239.255.50.49	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	5 kanal SPb 239.255.50.5	No	239.255.50.5	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Sport 1 239.255.50.50	No	239.255.50.50	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Eurosport 239.255.50.51	No	239.255.50.51	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Sport Pl (NTVp) 239.255.50.52	No	239.255.50.52	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Russki extrim 239.255.50.53	No	239.255.50.53	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	STV (Bulvar TV) 239.255.50.54	No	239.255.50.54	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Zdorovoe tel 239.255.50.55	No	239.255.50.55	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Usadba TV 239.255.50.56	No	239.255.50.56	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Domashnie zhiv 239.255.50.58	No	239.255.50.58	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Voprosy i otvety 239.255.50.59	No	239.255.50.59	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Psihologija 21 239.255.50.60	No	239.255.50.60	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Uspeh 239.255.50.61	No	239.255.50.61	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery TLC 239.255.50.62	No	239.255.50.62	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	E! Ent 239.255.50.63	No	239.255.50.63	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	RBK TV 239.255.50.64	No	239.255.50.64	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Komsomolskaja Pr 239.255.50.65	No	239.255.50.65	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Deutsche Welle 239.255.50.66	No	239.255.50.66	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nano TV 239.255.50.68	No	239.255.50.68	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	LifeNews SD 239.255.50.69	No	239.255.50.69	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Souz 239.255.50.70	No	239.255.50.70	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Mir 239.255.50.72	No	239.255.50.72	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	National Geog Wi 239.255.50.76	No	239.255.50.76	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Oruzhie TV 239.255.50.77	No	239.255.50.77	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MGM 239.255.50.78	No	239.255.50.78	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Karusel 239.255.50.8	No	239.255.50.8	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Gulli 239.255.50.80	No	239.255.50.80	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Detskij 239.255.50.83	No	239.255.50.83	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Mat i ditja 239.255.50.84	No	239.255.50.84	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery Scien 239.255.50.85	No	239.255.50.85	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery ID inv 239.255.50.86	No	239.255.50.86	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Discovery World 239.255.50.87	No	239.255.50.87	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Viasat Explorer 239.255.50.89	No	239.255.50.89	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	OTR 239.255.50.9	No	239.255.50.9	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Fox Life 239.255.50.90	No	239.255.50.90	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Viasat History 239.255.50.91	No	239.255.50.91	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	24 tehno 239.255.50.92	No	239.255.50.92	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	24 dok 239.255.50.93	No	239.255.50.93	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nauka 2.0 239.255.50.94	No	239.255.50.94	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV 1000 Action 239.255.50.98	No	239.255.50.98	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	LifeNews HD 239.255.50.182	No	239.255.50.182	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Stream Kino 239.255.50.125	No	239.255.50.125	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Stream Kinostar 239.255.50.121	No	239.255.50.121	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Russkij bestsell 239.255.50.225	No	239.255.50.225	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MTS-INFO 239.255.50.239	No	239.255.50.239	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Mezzo Live HD 239.255.50.146	No	239.255.50.146	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Fashion One HD 239.255.50.147	No	239.255.50.147	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Candy TV HD 239.255.50.174	No	239.255.50.174	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Prem SD 239.255.50.213	No	239.255.50.213	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	ViaH HD ViaN HD 239.255.50.163	No	239.255.50.163	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Com SD 239.255.50.215	No	239.255.50.215	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	TV1000 Mega SD 239.255.50.214	No	239.255.50.214	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Domashnij 239.255.50.22	No	239.255.50.22	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	VH 1 Europe 239.255.50.46	No	239.255.50.46	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nation Geog HD 239.255.50.134	No	239.255.50.134	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Region channel 4 239.255.50.75	No	239.255.50.75	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Eurosport 2 239.255.50.111	No	239.255.50.111	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Nation Ge Wi HD 239.255.50.135	No	239.255.50.135	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	MTV Hits 239.255.50.47	No	239.255.50.47	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Viasat Nature 239.255.50.88	No	239.255.50.88	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Kto est Kto 239.255.50.158	No	239.255.50.158	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	KHL HD 239.255.50.170	No	239.255.50.170	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Promo SD HD 239.255.50.179	No	239.255.50.179	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Region channel 2 239.255.50.73	No	239.255.50.73	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Region channel 3 239.255.50.74	No	239.255.50.74	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Promo-Poznavat 239.255.50.79	No	239.255.50.79	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Promo Film 239.255.50.145	No	239.255.50.145	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Promo-Sportivnyi 239.255.50.176	No	239.255.50.176	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	EKT-upgrade 239.255.50.253	No	239.255.50.253	No	5500	On	MTSIPFlow-upgrade	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Coship-upgrade 239.255.50.252	No	239.255.50.252	No	5500	On	MTSIPFlow-upgrade	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	EKT-HD-upgrade 239.255.50.251	No	239.255.50.251	No	5500	On	MTSIPFlow-upgrade	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	SMIT-upgrade 239.255.50.248	No	239.255.50.248	No	5500	On	MTSIPFlow-upgrade	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	1	No	No
+Video	Rossia 1 239.255.50.2	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	2	Rossia 1	2	No	0_0.0:0.0	No	No	No	No	Rossia 1	0	No	0	No	No	No
+Video	Rossia 2 239.255.50.3	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	3	Rossia 2	3	No	0_0.0:0.0	No	No	No	No	Rossia 2	0	No	0	No	No	No
+Video	Rossia-Kultura 239.255.50.6	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	6	Rossia-Kultura	6	No	0_0.0:0.0	No	No	No	No	Rossia-Kultura	0	No	0	No	No	No
+Video	Rossia 24 239.255.50.7	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	7	Rossia 24	7	No	0_0.0:0.0	No	No	No	No	Rossia 24	0	No	0	No	No	No
+Video	Bojcovskij klub 239.255.50.108	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	108	Bojcovskij klub	304	No	0_0.0:0.0	No	No	No	No	Bojcovskij klub	0	No	0	No	No	No
+Video	Rossia HD 239.255.50.138	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	138	Rossia HD	29	No	0_0.0:0.0	No	No	No	No	Rossia HD	0	No	0	No	No	No
+Video	Muzyka pervogo 239.255.50.99	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Muzyka pervogo	502	No	0_0.0:0.0	No	No	No	No	Muzyka pervogo	0	No	0	No	No	No
+Video	Vremja: dal i bl 239.255.50.114	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	114	Vremja: dalekoe i blizkoe	112	No	0_0.0:0.0	No	No	No	No	Vremja: dalekoe i blizkoe	0	No	0	No	No	No
+Video	SET 239.255.50.45	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	SET	66	No	0_0.0:0.0	No	No	No	No	SET	0	No	0	No	No	No
+Video	Fox Life HD 239.255.50.130	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	130	Fox Life HD	70	No	0_0.0:0.0	No	No	No	No	Fox Life HD	0	No	0	No	No	No
+Video	Fox HD 239.255.50.131	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	131	Fox HD	68	No	0_0.0:0.0	No	No	No	No	Fox HD	0	No	0	No	No	No
+Video	Pervyj kanal HD 239.255.50.139	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	139	Pervyj kanal HD	28	No	0_0.0:0.0	No	No	No	No	Pervyj kanal HD	0	No	0	No	No	No
+Video	Nostalgija 239.255.50.140	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	40	Nostalgija	113	No	0_0.0:0.0	No	No	No	No	Nostalgija	0	No	0	No	No	No
+Video	Sport 1 HD 239.255.50.123	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	123	Sport 1 HD	613	No	0_0.0:0.0	No	No	No	No	Sport 1 HD	0	No	0	No	No	No
+Video	Pervyj 239.255.50.1	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Pervyj	1	No	0_0.0:0.0	No	No	No	No	Pervyj	0	No	0	No	No	No
+Video	STS 239.255.50.10	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	10	STS	13	No	0_0.0:0.0	No	No	No	No	STS	0	No	0	No	No	No
+Video	Evropa plus TV 239.255.50.100	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	6980	Evropa plus TV	503	No	0_0.0:0.0	No	No	No	No	Evropa plus TV	0	No	0	No	No	No
+Video	Sport 239.255.50.105	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	105	Sport	77	No	0_0.0:0.0	No	No	No	No	Sport	0	No	0	No	No	No
+Video	BOEC 239.255.50.107	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1400	BOEC	305	No	0_0.0:0.0	No	No	No	No	BOEC	0	No	0	No	No	No
+Video	KHL 239.255.50.109	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	109	KHL	87	No	0_0.0:0.0	No	No	No	No	KHL	0	No	0	No	No	No
+Video	TNT 239.255.50.11	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	11	TNT	11	No	0_0.0:0.0	No	No	No	No	TNT	0	No	0	No	No	No
+Video	Tiji 239.255.50.113	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	113	Tiji	85	No	0_0.0:0.0	No	No	No	No	Tiji	0	No	0	No	No	No
+Video	Mnogo TV 239.255.50.115	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Mnogo TV	213	No	0_0.0:0.0	No	No	No	No	Mnogo TV	0	No	0	No	No	No
+Video	India TV 239.255.50.117	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	117	India TV	210	No	0_0.0:0.0	No	No	No	No	India TV	0	No	0	No	No	No
+Video	Discovery HD Sho 239.255.50.118	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	118	Discovery HD Showcase	601	No	0_0.0:0.0	No	No	No	No	Discovery HD Showcase	0	No	0	No	No	No
+Video	Russkij roman 239.255.50.120	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	120	Russkij roman	206	No	0_0.0:0.0	No	No	No	No	Russkij roman	0	No	0	No	No	No
+Video	Eurosport 1 HD 239.255.50.122	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	122	Eurosport 1 HD	611	No	0_0.0:0.0	No	No	No	No	Eurosport 1 HD	0	No	0	No	No	No
+Video	Nickelodeon HD 239.255.50.126	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	126	Nickelodeon HD	604	No	0_0.0:0.0	No	No	No	No	Nickelodeon HD	0	No	0	No	No	No
+Video	MTV Live HD 239.255.50.127	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	127	MTV Live HD	606	No	0_0.0:0.0	No	No	No	No	MTV Live HD	0	No	0	No	No	No
+Video	Nash futbol 239.255.50.128	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	128	Nash futbol	821	No	0_0.0:0.0	No	No	No	No	Nash futbol	0	No	0	No	No	No
+Video	Disney 239.255.50.13	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Disney	17	No	0_0.0:0.0	No	No	No	No	Disney	0	No	0	No	No	No
+Video	A-Media 2 239.255.50.132	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	6840	A-Media 2	208	No	0_0.0:0.0	No	No	No	No	A-Media 2	0	No	0	No	No	No
+Video	REN 239.255.50.14	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	REN	14	No	0_0.0:0.0	No	No	No	No	REN	0	No	0	No	No	No
+Video	MGM HD 239.255.50.142	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	142	MGM HD	605	No	0_0.0:0.0	No	No	No	No	MGM HD	0	No	0	No	No	No
+Video	Travel Channel 239.255.50.144	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	144	Travel Channel	120	No	0_0.0:0.0	No	No	No	No	Travel Channel	0	No	0	No	No	No
+Video	TV Centr 239.255.50.15	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	15	TV Centr	10	No	0_0.0:0.0	No	No	No	No	TV Centr	0	No	0	No	No	No
+Video	Nastojash str TV 239.255.50.159	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	159	Nastojashhee strashnoe TV	212	No	0_0.0:0.0	No	No	No	No	Nastojashhee strashnoe TV	0	No	0	No	No	No
+Video	TV 3 Rossia 239.255.50.16	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	16	TV 3 Rossia	19	No	0_0.0:0.0	No	No	No	No	TV 3 Rossia	0	No	0	No	No	No
+Video	TV1000 Prem HD 239.255.50.160	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	160	TV1000 Premium HD	801	No	0_0.0:0.0	No	No	No	No	TV1000 Premium HD	0	No	0	No	No	No
+Video	TV1000 Meg HD 239.255.50.161	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	161	TV1000 Megahit HD	803	No	0_0.0:0.0	No	No	No	No	TV1000 Megahit HD	0	No	0	No	No	No
+Video	TV1000 Comedy HD 239.255.50.162	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	162	TV1000 Comedy HD	805	No	0_0.0:0.0	No	No	No	No	TV1000 Comedy HD	0	No	0	No	No	No
+Video	ViaH SD ViaN SD 239.255.50.216	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	216	Viasat Hist SD Viasat Nat SD	808	No	0_0.0:0.0	No	No	No	No	Viasat Hist SD Viasat Nat SD	0	No	0	No	No	No
+Video	MUZ 239.255.50.164	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	164	MUZ	23	No	0_0.0:0.0	No	No	No	No	MUZ	0	No	0	No	No	No
+Video	Music Box RU 239.255.50.165	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	165	Music Box RU	505	No	0_0.0:0.0	No	No	No	No	Music Box RU	0	No	0	No	No	No
+Video	Music Box 239.255.50.166	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	166	Music Box	504	No	0_0.0:0.0	No	No	No	No	Music Box	0	No	0	No	No	No
+Video	Kuhnja TV 239.255.50.168	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	4120	Kuhnja TV	117	No	0_0.0:0.0	No	No	No	No	Kuhnja TV	0	No	0	No	No	No
+Video	Avto Plus 239.255.50.169	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	169	Avto Plus	306	No	0_0.0:0.0	No	No	No	No	Avto Plus	0	No	0	No	No	No
+Video	U TV 239.255.50.17	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	U TV	20	No	0_0.0:0.0	No	No	No	No	U TV	0	No	0	No	No	No
+Video	Eurosport 2 HD 239.255.50.171	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	171	Eurosport 2 HD	612	No	0_0.0:0.0	No	No	No	No	Eurosport 2 HD	0	No	0	No	No	No
+Video	Candy TV SD 239.255.50.173	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	173	Candy TV SD	925	No	0_0.0:0.0	No	No	No	No	Candy TV SD	0	No	0	No	No	No
+Video	Perec 239.255.50.18	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Perec	18	No	0_0.0:0.0	No	No	No	No	Perec	0	No	0	No	No	No
+Video	Boomerang 239.255.50.180	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Boomerang	401	No	0_0.0:0.0	No	No	No	No	Boomerang	0	No	0	No	No	No
+Video	Friday 239.255.50.19	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Friday	21	No	0_0.0:0.0	No	No	No	No	Friday	0	No	0	No	No	No
+Video	A-one 239.255.50.20	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	20	A-one	90	No	0_0.0:0.0	No	No	No	No	A-one	0	No	0	No	No	No
+Video	2x2 239.255.50.21	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	21	2x2	25	No	0_0.0:0.0	No	No	No	No	2x2	0	No	0	No	No	No
+Video	Istoriya 239.255.50.212	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	212	Istoriya	107	No	0_0.0:0.0	No	No	No	No	Istoriya	0	No	0	No	No	No
+Video	FOX 239.255.50.217	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	217	FOX	67	No	0_0.0:0.0	No	No	No	No	FOX	0	No	0	No	No	No
+Video	Travel pl Adv SD 239.255.50.218	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	218	Travel plus Adventure SD	46	No	0_0.0:0.0	No	No	No	No	Travel plus Adventure SD	0	No	0	No	No	No
+Video	Travel pl Adv HD 239.255.50.219	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	219	Travel plus Adventure HD	47	No	0_0.0:0.0	No	No	No	No	Travel plus Adventure HD	0	No	0	No	No	No
+Video	Amedia Prem HD 239.255.50.220	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	220	Amedia Premium HD	823	No	0_0.0:0.0	No	No	No	No	Amedia Premium HD	0	No	0	No	No	No
+Video	Amedia Prem SD 239.255.50.221	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	221	Amedia Premium SD	824	No	0_0.0:0.0	No	No	No	No	Amedia Premium SD	0	No	0	No	No	No
+Video	Kinoluks 239.255.50.222	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	222	Kinoluks	202	No	0_0.0:0.0	No	No	No	No	Kinoluks	0	No	0	No	No	No
+Video	Nash footbal HD 239.255.50.223	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	223	Nash footbal HD	822	No	0_0.0:0.0	No	No	No	No	Nash footbal HD	0	No	0	No	No	No
+Video	SONY Turbo 239.255.50.224	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	224	SONY Turbo	214	No	0_0.0:0.0	No	No	No	No	SONY Turbo	0	No	0	No	No	No
+Video	Zvezda 239.255.50.23	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	23	Zvezda	26	No	0_0.0:0.0	No	No	No	No	Zvezda	0	No	0	No	No	No
+Video	Shopping live 239.255.50.24	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Shopping live	12	No	0_0.0:0.0	No	No	No	No	Shopping live	0	No	0	No	No	No
+Video	MPTS GEO  239.255.50.25	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	25	National Geographic	40	No	0_0.0:0.0	No	No	No	No	National Geographic	0	No	0	No	No	No
+Video	Discovery Chann 239.255.50.26	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Discovery Channel	37	No	0_0.0:0.0	No	No	No	No	Discovery Channel	0	No	0	No	No	No
+Video	Animal Planet 239.255.50.27	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Animal Planet	38	No	0_0.0:0.0	No	No	No	No	Animal Planet	0	No	0	No	No	No
+Video	Moja planeta 239.255.50.28	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	28	Moja planeta	45	No	0_0.0:0.0	No	No	No	No	Moja planeta	0	No	0	No	No	No
+Video	Drive 239.255.50.29	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Drive	49	No	0_0.0:0.0	No	No	No	No	Drive	0	No	0	No	No	No
+Video	Ohota i rybalka 239.255.50.30	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Ohota i rybalka	50	No	0_0.0:0.0	No	No	No	No	Ohota i rybalka	0	No	0	No	No	No
+Video	Detskij mir 239.255.50.31	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Detskij mir	83	No	0_0.0:0.0	No	No	No	No	Detskij mir	0	No	0	No	No	No
+Video	Cartoon Network 239.255.50.32	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Cartoon Network	82	No	0_0.0:0.0	No	No	No	No	Cartoon Network	0	No	0	No	No	No
+Video	Nickelodeon 239.255.50.33	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	33	Nickelodeon	81	No	0_0.0:0.0	No	No	No	No	Nickelodeon	0	No	0	No	No	No
+Video	Multimania 239.255.50.34	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	34	Multimania	84	No	0_0.0:0.0	No	No	No	No	Multimania	0	No	0	No	No	No
+Video	TV XXI 239.255.50.35	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	35	TV XXI	205	No	0_0.0:0.0	No	No	No	No	TV XXI	0	No	0	No	No	No
+Video	TV 1000 239.255.50.36	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	TV 1000	60	No	0_0.0:0.0	No	No	No	No	TV 1000	0	No	0	No	No	No
+Video	TV 1000 Rus kin 239.255.50.37	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	TV 1000 Russkoe kino	61	No	0_0.0:0.0	No	No	No	No	TV 1000 Russkoe kino	0	No	0	No	No	No
+Video	Dom kino 239.255.50.38	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	38	Dom kino	59	No	0_0.0:0.0	No	No	No	No	Dom kino	0	No	0	No	No	No
+Video	AXN SciFi 239.255.50.39	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	39	AXN SciFi	65	No	0_0.0:0.0	No	No	No	No	AXN SciFi	0	No	0	No	No	No
+Video	NTV 239.255.50.4	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	4	NTV	4	No	0_0.0:0.0	No	No	No	No	NTV	0	No	0	No	No	No
+Video	Retro 239.255.50.40	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Retro	51	No	0_0.0:0.0	No	No	No	No	Retro	0	No	0	No	No	No
+Video	Russkij illjuz 239.255.50.41	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	41	Russkij illjuzion	203	No	0_0.0:0.0	No	No	No	No	Russkij illjuzion	0	No	0	No	No	No
+Video	Illjuzion plus 239.255.50.42	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	42	Illjuzion plus	204	No	0_0.0:0.0	No	No	No	No	Illjuzion plus	0	No	0	No	No	No
+Video	Kino Plus (NTVp) 239.255.50.43	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	43	Kino Plus (NTV plus)	201	No	0_0.0:0.0	No	No	No	No	Kino Plus (NTV plus)	0	No	0	No	No	No
+Video	Universal 239.255.50.44	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	44	Universal	63	No	0_0.0:0.0	No	No	No	No	Universal	0	No	0	No	No	No
+Video	Shanson 239.255.50.48	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Shanson	89	No	0_0.0:0.0	No	No	No	No	Shanson	0	No	0	No	No	No
+Video	RU TV 239.255.50.49	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	49	RU TV	88	No	0_0.0:0.0	No	No	No	No	RU TV	0	No	0	No	No	No
+Video	5 kanal SPb 239.255.50.5	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	5	5 kanal SPb	5	No	0_0.0:0.0	No	No	No	No	5 kanal SPb	0	No	0	No	No	No
+Video	Sport 1 239.255.50.50	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	50	Sport 1	302	No	0_0.0:0.0	No	No	No	No	Sport 1	0	No	0	No	No	No
+Video	Eurosport 239.255.50.51	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	51	Eurosport	74	No	0_0.0:0.0	No	No	No	No	Eurosport	0	No	0	No	No	No
+Video	Sport Pl (NTVp) 239.255.50.52	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	52	Sport Plus (NTV plus)	76	No	0_0.0:0.0	No	No	No	No	Sport Plus (NTV plus)	0	No	0	No	No	No
+Video	Russki extrim 239.255.50.53	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	53	Russki extrim	78	No	0_0.0:0.0	No	No	No	No	Russki extrim	0	No	0	No	No	No
+Video	STV (Bulvar TV) 239.255.50.54	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	54	STV (Bulvar TV)	118	No	0_0.0:0.0	No	No	No	No	STV (Bulvar TV)	0	No	0	No	No	No
+Video	Zdorovoe tel 239.255.50.55	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Zdorovoe televidenie	52	No	0_0.0:0.0	No	No	No	No	Zdorovoe televidenie	0	No	0	No	No	No
+Video	Usadba TV 239.255.50.56	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Usadba TV	48	No	0_0.0:0.0	No	No	No	No	Usadba TV	0	No	0	No	No	No
+Video	Domashnie zhiv 239.255.50.58	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Domashnie zhivotnye	108	No	0_0.0:0.0	No	No	No	No	Domashnie zhivotnye	0	No	0	No	No	No
+Video	Voprosy i otvety 239.255.50.59	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	59	Voprosy i otvety	109	No	0_0.0:0.0	No	No	No	No	Voprosy i otvety	0	No	0	No	No	No
+Video	Psihologija 21 239.255.50.60	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Psihologija 21	110	No	0_0.0:0.0	No	No	No	No	Psihologija 21	0	No	0	No	No	No
+Video	Uspeh 239.255.50.61	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	61	Uspeh	56	No	0_0.0:0.0	No	No	No	No	Uspeh	0	No	0	No	No	No
+Video	Discovery TLC 239.255.50.62	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Discovery TLC	39	No	0_0.0:0.0	No	No	No	No	Discovery TLC	0	No	0	No	No	No
+Video	E! Ent 239.255.50.63	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	E! Entertainment	64	No	0_0.0:0.0	No	No	No	No	E! Entertainment	0	No	0	No	No	No
+Video	RBK TV 239.255.50.64	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	64	RBK TV	95	No	0_0.0:0.0	No	No	No	No	RBK TV	0	No	0	No	No	No
+Video	Komsomolskaja Pr 239.255.50.65	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	65	Komsomolskaja Pravda	96	No	0_0.0:0.0	No	No	No	No	Komsomolskaja Pravda	0	No	0	No	No	No
+Video	Deutsche Welle 239.255.50.66	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	66	Deutsche Welle	97	No	0_0.0:0.0	No	No	No	No	Deutsche Welle	0	No	0	No	No	No
+Video	Nano TV 239.255.50.68	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Nano TV	53	No	0_0.0:0.0	No	No	No	No	Nano TV	0	No	0	No	No	No
+Video	LifeNews SD 239.255.50.69	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	69	LifeNews SD	99	No	0_0.0:0.0	No	No	No	No	LifeNews SD	0	No	0	No	No	No
+Video	Souz 239.255.50.70	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	70	Souz	93	No	0_0.0:0.0	No	No	No	No	Souz	0	No	0	No	No	No
+Video	Mir 239.255.50.72	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	72	Mir	94	No	0_0.0:0.0	No	No	No	No	Mir	0	No	0	No	No	No
+Video	National Geog Wi 239.255.50.76	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	76	National Geographic Wild	104	No	0_0.0:0.0	No	No	No	No	National Geographic Wild	0	No	0	No	No	No
+Video	Oruzhie TV 239.255.50.77	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	77	Oruzhie TV	307	No	0_0.0:0.0	No	No	No	No	Oruzhie TV	0	No	0	No	No	No
+Video	MGM 239.255.50.78	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	MGM	71	No	0_0.0:0.0	No	No	No	No	MGM	0	No	0	No	No	No
+Video	Karusel 239.255.50.8	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	8	Karusel	8	No	0_0.0:0.0	No	No	No	No	Karusel	0	No	0	No	No	No
+Video	Gulli 239.255.50.80	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1400	Gulli	402	No	0_0.0:0.0	No	No	No	No	Gulli	0	No	0	No	No	No
+Video	Detskij 239.255.50.83	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Detskij	405	No	0_0.0:0.0	No	No	No	No	Detskij	0	No	0	No	No	No
+Video	Mat i ditja 239.255.50.84	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Mat i ditja	407	No	0_0.0:0.0	No	No	No	No	Mat i ditja	0	No	0	No	No	No
+Video	Discovery Scien 239.255.50.85	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	85	Discovery Science	101	No	0_0.0:0.0	No	No	No	No	Discovery Science	0	No	0	No	No	No
+Video	Discovery ID inv 239.255.50.86	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Discovery ID investigation	102	No	0_0.0:0.0	No	No	No	No	Discovery ID investigation	0	No	0	No	No	No
+Video	Discovery World 239.255.50.87	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	103	Discovery World	103	No	0_0.0:0.0	No	No	No	No	Discovery World	0	No	0	No	No	No
+Video	Viasat Explorer 239.255.50.89	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	89	Viasat Explorer	43	No	0_0.0:0.0	No	No	No	No	Viasat Explorer	0	No	0	No	No	No
+Video	OTR 239.255.50.9	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	9	OTR	9	No	0_0.0:0.0	No	No	No	No	OTR	0	No	0	No	No	No
+Video	Fox Life 239.255.50.90	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	90	Fox Life	69	No	0_0.0:0.0	No	No	No	No	Fox Life	0	No	0	No	No	No
+Video	Viasat History 239.255.50.91	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	91	Viasat History	44	No	0_0.0:0.0	No	No	No	No	Viasat History	0	No	0	No	No	No
+Video	24 tehno 239.255.50.92	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	60	24 tehno	114	No	0_0.0:0.0	No	No	No	No	24 tehno	0	No	0	No	No	No
+Video	24 dok 239.255.50.93	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	24 dok	115	No	0_0.0:0.0	No	No	No	No	24 dok	0	No	0	No	No	No
+Video	Nauka 2.0 239.255.50.94	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	94	Nauka 2.0	106	No	0_0.0:0.0	No	No	No	No	Nauka 2.0	0	No	0	No	No	No
+Video	TV 1000 Action 239.255.50.98	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	98	TV 1000 Action	62	No	0_0.0:0.0	No	No	No	No	TV 1000 Action	0	No	0	No	No	No
+Video	LifeNews HD 239.255.50.182	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	LifeNews HD	98	No	0_0.0:0.0	No	No	No	No	LifeNews HD	0	No	0	No	No	No
+Video	Stream Kino 239.255.50.125	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	121	Stream Kino	826	No	0_0.0:0.0	No	No	No	No	Stream Kino	0	No	0	No	No	No
+Video	Stream Kinostar 239.255.50.121	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	125	Stream Kinostar	825	No	0_0.0:0.0	No	No	No	No	Stream Kinostar	0	No	0	No	No	No
+Video	Russkij bestsell 239.255.50.225	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	225	Russkij bestseller	207	No	0_0.0:0.0	No	No	No	No	Russkij bestseller	0	No	0	No	No	No
+Video	MTS-INFO 239.255.50.239	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	MTS-INFO	15	No	0_0.0:0.0	No	No	No	No	MTS-INFO	0	No	0	No	No	No
+Video	Mezzo Live HD 239.255.50.146	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	146	Mezzo Live HD	607	No	0_0.0:0.0	No	No	No	No	Mezzo Live HD	0	No	0	No	No	No
+Video	Fashion One HD 239.255.50.147	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	147	Fashion One HD	603	No	0_0.0:0.0	No	No	No	No	Fashion One HD	0	No	0	No	No	No
+Video	Candy TV HD 239.255.50.174	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	174	Candy TV HD	924	No	0_0.0:0.0	No	No	No	No	Candy TV HD	0	No	0	No	No	No
+Video	TV1000 Prem SD 239.255.50.213	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	213	TV1000 Premium SD	802	No	0_0.0:0.0	No	No	No	No	TV1000 Premium SD	0	No	0	No	No	No
+Video	ViaH HD ViaN HD 239.255.50.163	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	163	Viasat Hist HD Viasat Nat HD	807	No	0_0.0:0.0	No	No	No	No	Viasat Hist HD Viasat Nat HD	0	No	0	No	No	No
+Video	TV1000 Com SD 239.255.50.215	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	215	TV1000 Comedy SD	806	No	0_0.0:0.0	No	No	No	No	TV1000 Comedy SD	0	No	0	No	No	No
+Video	TV1000 Mega SD 239.255.50.214	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	214	TV1000 Megahit SD	804	No	0_0.0:0.0	No	No	No	No	TV1000 Megahit SD	0	No	0	No	No	No
+Video	Domashnij 239.255.50.22	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	22	Domashnij	22	No	0_0.0:0.0	No	No	No	No	Domashnij	0	No	0	No	No	No
+Video	VH 1 Europe 239.255.50.46	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	46	VH 1 Europe	506	No	0_0.0:0.0	No	No	No	No	VH 1 Europe	0	No	0	No	No	No
+Video	Nation Geog HD 239.255.50.134	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	134	National Geographic HD	41	No	0_0.0:0.0	No	No	No	No	National Geographic HD	0	No	0	No	No	No
+Video	Region channel 4 239.255.50.75	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	75	Region channel 4	34	No	0_0.0:0.0	No	No	No	No	Region channel 4	0	No	0	No	No	No
+Video	Eurosport 2 239.255.50.111	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	111	Eurosport 2	75	No	0_0.0:0.0	No	No	No	No	Eurosport 2	0	No	0	No	No	No
+Video	Nation Ge Wi HD 239.255.50.135	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	135	National Geographic Wild HD	42	No	0_0.0:0.0	No	No	No	No	National Geographic Wild HD	0	No	0	No	No	No
+Video	MTV Hits 239.255.50.47	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	47	MTV Hits	507	No	0_0.0:0.0	No	No	No	No	MTV Hits	0	No	0	No	No	No
+Video	Viasat Nature 239.255.50.88	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	88	Viasat Nature	105	No	0_0.0:0.0	No	No	No	No	Viasat Nature	0	No	0	No	No	No
+Video	Kto est Kto 239.255.50.158	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	5480	Kto est Kto	102	No	0_0.0:0.0	No	No	No	No	Kto est Kto	0	No	0	No	No	No
+Video	KHL HD 239.255.50.170	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	170	KHL HD	614	No	0_0.0:0.0	No	No	No	No	KHL HD	0	No	0	No	No	No
+Video	Promo SD HD 239.255.50.179	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	179	Promo SD HD	27	No	0_0.0:0.0	No	No	No	No	Promo SD HD	0	No	0	No	No	No
+Video	Region channel 2 239.255.50.73	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	73	Region channel 2	32	No	0_0.0:0.0	No	No	No	No	Region channel 2	0	No	0	No	No	No
+Video	Region channel 3 239.255.50.74	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	74	Region channel 3	33	No	0_0.0:0.0	No	No	No	No	Region channel 3	0	No	0	No	No	No
+Video	Promo-Poznavat 239.255.50.79	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	79	Promo-Poznavatelnyi	58	No	0_0.0:0.0	No	No	No	No	Promo-Poznavatelnyi	0	No	0	No	No	No
+Video	Promo Film 239.255.50.145	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	145	Promo Film	73	No	0_0.0:0.0	No	No	No	No	Promo Film	0	No	0	No	No	No
+Video	Promo-Sportivnyi 239.255.50.176	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	176	Promo-Sportivnyi	80	No	0_0.0:0.0	No	No	No	No	Promo-Sportivnyi	0	No	0	No	No	No
+Video	EKT-upgrade 239.255.50.253	No	No	No	No	No	No	No	MTSUpgrade	No	No	No	No	990	EKT-upgrade		No	0_0.0:0.0	No	No	No	No	EKT-upgrade	0	No	0	No	No	No
+Video	Coship-upgrade 239.255.50.252	No	No	No	No	No	No	No	MTSUpgrade	No	No	No	No	991	Coship-upgrade		No	0_0.0:0.0	No	No	No	No	Coship-upgrade	0	No	0	No	No	No
+Video	EKT-HD-upgrade 239.255.50.251	No	No	No	No	No	No	No	MTSUpgrade	No	No	No	No	992	EKT-HD-upgrade		No	0_0.0:0.0	No	No	No	No	EKT-HD-upgrade	0	No	0	No	No	No
+Video	SMIT-upgrade 239.255.50.248	No	No	No	No	No	No	No	MTSUpgrade	No	No	No	No	995	SMIT-upgrade		No	0_0.0:0.0	No	No	No	No	SMIT-upgrade	0	No	0	No	No	No
+Video	Lja-Minor 239.255.50.101	No	239.255.50.101	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Mezzo 239.255.50.102	No	239.255.50.102	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Zhivi 239.255.50.112	No	239.255.50.112	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Comedy TV 239.255.50.116	No	239.255.50.116	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Animal Planet HD 239.255.50.119	No	239.255.50.119	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	French Lover 239.255.50.133	No	239.255.50.133	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	English Club 239.255.50.141	No	239.255.50.141	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Travel Chann HD 239.255.50.143	No	239.255.50.143	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Russkaja noch 239.255.50.149	No	239.255.50.149	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Radost moja 239.255.50.178	No	239.255.50.178	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Nu Art 239.255.50.193	No	239.255.50.193	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	BRAZZERS TV Eu 239.255.50.195	No	239.255.50.195	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Baby TV 239.255.50.228	No	239.255.50.228	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	HD Life 239.255.50.229	No	239.255.50.229	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Telekafe 239.255.50.57	No	239.255.50.57	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	JimJam 239.255.50.82	No	239.255.50.82	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	365 dnej TV 239.255.50.96	No	239.255.50.96	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Zee 239.255.50.97	No	239.255.50.97	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	MyZen HD 239.255.50.167	No	239.255.50.167	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Candy TV 3D-HD 239.255.50.198	No	239.255.50.198	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Ny Art HD 239.255.50.194	No	239.255.50.194	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Eurosport news 239.255.50.104	No	239.255.50.104	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Stil I moda 239.255.50.156	No	239.255.50.156	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Interesnoe TV 239.255.50.231	No	239.255.50.231	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Jegoist 239.255.50.192	No	239.255.50.192	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	DaVinchi Learn 239.255.50.230	No	239.255.50.230	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Promo-Detskiy 239.255.50.226	No	239.255.50.226	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Promo-Muzykaln 239.255.50.227	No	239.255.50.227	No	5500	On	MTSIPFlow	No	MTSProgramDefault	255.255.255.255	255.255.255.255	4		No	No	No	No	No	No	1	No	No	No	0	No	No	2	No	No
+Video	Lja-Minor 239.255.50.101	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	101	Lja-Minor	501	No	0_0.0:0.0	No	No	No	No	Lja-Minor	0	No	0	No	No	No
+Video	Mezzo 239.255.50.102	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	102	Mezzo	508	No	0_0.0:0.0	No	No	No	No	Mezzo	0	No	0	No	No	No
+Video	Zhivi 239.255.50.112	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	112	Zhivi	308	No	0_0.0:0.0	No	No	No	No	Zhivi	0	No	0	No	No	No
+Video	Comedy TV 239.255.50.116	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	116	Comedy TV	211	No	0_0.0:0.0	No	No	No	No	Comedy TV	0	No	0	No	No	No
+Video	Animal Planet HD 239.255.50.119	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	119	Animal Planet HD	602	No	0_0.0:0.0	No	No	No	No	Animal Planet HD	0	No	0	No	No	No
+Video	French Lover 239.255.50.133	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	133	French Lover	921	No	0_0.0:0.0	No	No	No	No	French Lover	0	No	0	No	No	No
+Video	English Club 239.255.50.141	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	141	English Club	116	No	0_0.0:0.0	No	No	No	No	English Club	0	No	0	No	No	No
+Video	Travel Chann HD 239.255.50.143	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	143	Travel Channel HD	608	No	0_0.0:0.0	No	No	No	No	Travel Channel HD	0	No	0	No	No	No
+Video	Russkaja noch 239.255.50.149	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	149	Russkaja noch	922	No	0_0.0:0.0	No	No	No	No	Russkaja noch	0	No	0	No	No	No
+Video	Radost moja 239.255.50.178	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	Radost moja	408	No	0_0.0:0.0	No	No	No	No	Radost moja	0	No	0	No	No	No
+Video	Nu Art 239.255.50.193	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	193	Nu Art	918	No	0_0.0:0.0	No	No	No	No	Nu Art	0	No	0	No	No	No
+Video	BRAZZERS TV Eu 239.255.50.195	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	195	BRAZZERS TV Europe	920	No	0_0.0:0.0	No	No	No	No	BRAZZERS TV Europe	0	No	0	No	No	No
+Video	Baby TV 239.255.50.228	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	228	Baby TV	404	No	0_0.0:0.0	No	No	No	No	Baby TV	0	No	0	No	No	No
+Video	HD Life 239.255.50.229	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	229	HD Life	631	No	0_0.0:0.0	No	No	No	No	HD Life	0	No	0	No	No	No
+Video	Telekafe 239.255.50.57	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	6840	Telekafe	54	No	0_0.0:0.0	No	No	No	No	Telekafe	0	No	0	No	No	No
+Video	JimJam 239.255.50.82	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	82	JimJam	403	No	0_0.0:0.0	No	No	No	No	JimJam	0	No	0	No	No	No
+Video	365 dnej TV 239.255.50.96	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	1	365 dnej TV	111	No	0_0.0:0.0	No	No	No	No	365 dnej TV	0	No	0	No	No	No
+Video	Zee 239.255.50.97	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	97	Zee	209	No	0_0.0:0.0	No	No	No	No	Zee	0	No	0	No	No	No
+Video	MyZen HD 239.255.50.167	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	167	MyZen HD	516	No	0_0.0:0.0	No	No	No	No	MyZen HD	0	No	0	No	No	No
+Video	Candy TV 3D-HD 239.255.50.198	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	198	Candy TV 3D-HD	923	No	0_0.0:0.0	No	No	No	No	Candy TV 3D-HD	0	No	0	No	No	No
+Video	Ny Art HD 239.255.50.194	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	194	Ny Art HD	919	No	0_0.0:0.0	No	No	No	No	Ny Art HD	0	No	0	No	No	No
+Video	Eurosport news 239.255.50.104	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	104	Eurosport news	301	No	0_0.0:0.0	No	No	No	No	Eurosport news	0	No	0	No	No	No
+Video	Stil I moda 239.255.50.156	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	156	Stil I moda	24	No	0_0.0:0.0	No	No	No	No	Stil I moda	0	No	0	No	No	No
+Video	Interesnoe TV 239.255.50.231	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	231	Interesnoe TV	119	No	0_0.0:0.0	No	No	No	No	Interesnoe TV	0	No	0	No	No	No
+Video	Jegoist 239.255.50.192	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	192	Jegoist	917	No	0_0.0:0.0	No	No	No	No	Jegoist	0	No	0	No	No	No
+Video	DaVinchi Learn 239.255.50.230	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	230	DaVinchi Learning	406	No	0_0.0:0.0	No	No	No	No	DaVinchi Learning	0	No	0	No	No	No
+Video	Promo-Detskiy 239.255.50.226	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	226	Promo-Detskiy	87	No	0_0.0:0.0	No	No	No	No	Promo-Detskiy	0	No	0	No	No	No
+Video	Promo-Muzykaln 239.255.50.227	No	No	No	No	No	No	No	MTSProgramDefault	No	No	No	No	227	Promo-Muzykalnyi	92	No	0_0.0:0.0	No	No	No	No	Promo-Muzykalnyi	0	No	0	No	No	No

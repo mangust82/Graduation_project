@@ -1,0 +1,40 @@
+Probe_Name	IP_Address	Probe_Type	Conf_set	Prefix_Conf_Name	username	password
+G2X-MSK-Test2-B2	10.XX.XX.XX	Geminus G2-X	1	IQAlias_G2X-MSK-Test2-B2	*****	*****
+IQ Cricket-QAM Plus	10.XX.XX.XX	IQ Cricket-QAM Plus	1	IQAlias_IQ Cricket-QAM Plus	*****	*****
+G2X-DV-001-IRKTK-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	1	DVBC_MPTS_G2X_B1_port1,2	*****	*****
+G2X-DV-001-IRKTK-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	1	G2X-Bay2_port1_multicast	*****	*****
+G2X-DV-002-KOMSK-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2_Комсомольск		
+G2X-DV-002-KOMSK-B2 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-MSK-a197-cr02-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-MSK-a481-l3sw-1-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-MSK-a481-l3sw-2-B2 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-MSK-mag9-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-MSK-mag9-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-SIBIR-001-OMSK-B1 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1		
+G2X-SIBIR-001-OMSK-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B2_port1		
+G2X-SZ-001-SP-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-SZ-001-SP-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-URAL-001-EKTBR-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2_Екатеринбург		
+G2X-URAL-001-EKTBR-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-URAL-002-PERM-B1 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1		
+G2X-URAL-002-PERM-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B2_port1		
+G2X-URAL-003-CHELB-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-URAL-003-CHELB-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-VOLGA-001-N.NOV-B1 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2_Н. Новгород		
+G2X-VOLGA-001-N.NOV-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B2_port1		
+G2X-VOLGA-002-SAMARA-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-VOLGA-002-SAMARA-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-VOLGA-003-SARATOV-B1 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1		
+G2X-VOLGA-003-SARATOV-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B2_port1		
+G2X-VOLGA-004-KIROV-B1 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1		
+G2X-VOLGA-004-KIROV-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B2_port1		
+G2X-VOLGA-005-KAZAN-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-VOLGA-005-KAZAN-B2 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-YUG-001-RnDON-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-YUG-001-RnDON-B2 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-YUG-002-VOLGR-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2		
+G2X-YUG-002-VOLGR-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+G2X-YUG-003-KRDR-B1 / Port-1,2	10.XX.XX.XX	Geminus G2-X	0	DVBC_MPTS_G2X_B1_port1,2_Краснодар		
+G2X-YUG-003-KRDR-B2 / Port-1	10.XX.XX.XX	Geminus G2-X	0	G2X-Bay2_port1_multicast		
+Surveyor-SIBIR-002-NOVSB / Port-2	10.XX.XX.XX	Surveyor TS	0			
+Surveyor-SIBIR-002-NOVSB / Port-1	10.XX.XX.XX	Surveyor TS	0	DVBC_MPTS_G2X_B1_port1,2_Новосибирск		

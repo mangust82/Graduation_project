@@ -1,0 +1,157 @@
+2024-06-14 20:36:38,594 WARNING A WARNING
+2024-06-14 20:36:38,594 ERROR An ERROR
+2024-06-14 20:36:38,595 CRITICAL A message of CRITICAL severity
+2024-06-14 20:36:38,596 ERROR {'FileExistsError'}
+Traceback (most recent call last):
+  File "c:\work\MVP\Scripts\dowload_conf\load_channel_plan.py", line 69, in move_conf_file
+    new_folder.mkdir()
+  File "c:\program files\python39\lib\pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileExistsError: [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_140620242036'
+2024-06-14 20:40:29,638 WARNING A WARNING
+2024-06-14 20:40:29,639 ERROR An ERROR
+2024-06-14 20:40:29,639 CRITICAL A message of CRITICAL severity
+2024-06-14 20:40:29,651 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-04-01v2.xlsm перемещен в Chan_plan_140620242040
+2024-06-14 20:46:57,200 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-02-29v2 (1).xlsm перемещен в Chan_plan_140620242046
+2024-06-14 20:47:00,789 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-02-29v2.xlsm перемещен в Chan_plan_140620242047
+2024-06-14 20:47:04,992 ERROR {'FileExistsError'}
+Traceback (most recent call last):
+  File "c:\work\MVP\Scripts\dowload_conf\load_channel_plan.py", line 66, in move_conf_file
+    new_folder.mkdir()
+  File "c:\program files\python39\lib\pathlib.py", line 1323, in mkdir
+    self._accessor.mkdir(self, mode)
+FileExistsError: [WinError 183] Невозможно создать файл, так как он уже существует: 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_140620242047'
+2024-06-15 02:47:44,113 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-06-10v2.xlsm перемещен в Chan_plan_150620240247
+2024-06-15 02:47:51,049 INFO Макрос DVBC_CS_MPTS выполнен
+2024-06-15 02:47:55,589 INFO Макрос DVBC_SPTS выполнен
+2024-06-15 02:48:04,928 INFO Макрос PSISI выполнен
+2024-06-15 02:48:05,480 INFO Перечень соответсвия устройсва файлу конфигурации {'IQAlias_G2X-MSK-Test2-B2': 'C:\\work\\MVP\\Scripts\\dowload_conf\\IQAlias_G2X-MSK-Test2-B2.xls', 'IQAlias_IQ Cricket-QAM Plus': 'C:\\work\\MVP\\Scripts\\dowload_conf\\IQAlias_IQ Cricket-QAM Plus.xls', 'DVBC_MPTS_G2X_B1_port1,2': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_150624_0247.xls', 'DVBC_MPTS_G2X_B1_port1,2_Екатеринбург': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_Екатеринбург_150624_0247.xls', 'DVBC_MPTS_G2X_B1_port1,2_Комсомольск': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_Комсомольск_150624_0248.xls', 'DVBC_MPTS_G2X_B1_port1,2_Краснодар': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_Краснодар_150624_0247.xls', 'DVBC_MPTS_G2X_B1_port1,2_Н. Новгород': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_Н. Новгород_150624_0248.xls', 'DVBC_MPTS_G2X_B1_port1,2_Новосибирск': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1,2_Новосибирск_150624_0248.xls', 'DVBC_MPTS_G2X_B1_port1': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B1_port1_150624_0247.xls', 'DVBC_MPTS_G2X_B2_port1': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\DVBC_MPTS_G2X_B2_port1_150624_0247.xls', 'G2X-Bay2_port1_multicast': 'C:\\work\\MVP\\Scripts\\dowload_conf\\Chan_plan_150620240247\\G2X-Bay2_port1_multicast_150624_0247.xls'}
+2024-06-15 02:48:25,638 INFO 10.92.128.135 File successfully transferred and saved!
+2024-06-15 02:48:28,548 INFO 10.92.128.137 File successfully transferred and saved!
+2024-06-15 02:48:37,859 ERROR {'WebDriverException'}
+Traceback (most recent call last):
+  File "c:\work\MVP\Scripts\dowload_conf\G2x_download_v3.py", line 36, in load_conf_G2X
+    driver.get(url)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome-headless-shell=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6054A2142+3514994]
+	(No symbol) [0x00007FF6050C0CE2]
+	(No symbol) [0x00007FF604F676AA]
+	(No symbol) [0x00007FF604F5FB39]
+	(No symbol) [0x00007FF604F525DD]
+	(No symbol) [0x00007FF604F516FD]
+	(No symbol) [0x00007FF604F50746]
+	(No symbol) [0x00007FF604F506EB]
+	(No symbol) [0x00007FF604F4EE3D]
+	(No symbol) [0x00007FF604F4F603]
+	(No symbol) [0x00007FF604F6A0FD]
+	(No symbol) [0x00007FF604FF2E01]
+	(No symbol) [0x00007FF604FD5FEA]
+	(No symbol) [0x00007FF604FF28F6]
+	(No symbol) [0x00007FF604FD5D93]
+	(No symbol) [0x00007FF604FA4BDC]
+	(No symbol) [0x00007FF604FA5C64]
+	GetHandleVerifier [0x00007FF6054CE16B+3695259]
+	GetHandleVerifier [0x00007FF605526737+4057191]
+	GetHandleVerifier [0x00007FF60551E4E3+4023827]
+	GetHandleVerifier [0x00007FF6051F04F9+689705]
+	(No symbol) [0x00007FF6050CC048]
+	(No symbol) [0x00007FF6050C8044]
+	(No symbol) [0x00007FF6050C81C9]
+	(No symbol) [0x00007FF6050B88C4]
+	BaseThreadInitThunk [0x00007FF912BC7344+20]
+	RtlUserThreadStart [0x00007FF914BA26B1+33]
+
+2024-06-15 02:48:38,528 ERROR {'WebDriverException'}
+Traceback (most recent call last):
+  File "c:\work\MVP\Scripts\dowload_conf\G2x_download_v3.py", line 36, in load_conf_G2X
+    driver.get(url)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 356, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome-headless-shell=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6054A2142+3514994]
+	(No symbol) [0x00007FF6050C0CE2]
+	(No symbol) [0x00007FF604F676AA]
+	(No symbol) [0x00007FF604F5FB39]
+	(No symbol) [0x00007FF604F525DD]
+	(No symbol) [0x00007FF604F516FD]
+	(No symbol) [0x00007FF604F50746]
+	(No symbol) [0x00007FF604F506EB]
+	(No symbol) [0x00007FF604F4EE3D]
+	(No symbol) [0x00007FF604F4F603]
+	(No symbol) [0x00007FF604F6A0FD]
+	(No symbol) [0x00007FF604FF2E01]
+	(No symbol) [0x00007FF604FD5FEA]
+	(No symbol) [0x00007FF604FF28F6]
+	(No symbol) [0x00007FF604FD5D93]
+	(No symbol) [0x00007FF604FA4BDC]
+	(No symbol) [0x00007FF604FA5C64]
+	GetHandleVerifier [0x00007FF6054CE16B+3695259]
+	GetHandleVerifier [0x00007FF605526737+4057191]
+	GetHandleVerifier [0x00007FF60551E4E3+4023827]
+	GetHandleVerifier [0x00007FF6051F04F9+689705]
+	(No symbol) [0x00007FF6050CC048]
+	(No symbol) [0x00007FF6050C8044]
+	(No symbol) [0x00007FF6050C81C9]
+	(No symbol) [0x00007FF6050B88C4]
+	BaseThreadInitThunk [0x00007FF912BC7344+20]
+	RtlUserThreadStart [0x00007FF914BA26B1+33]
+
+2024-06-15 02:48:40,589 WARNING Все threads выполнены
+2024-06-18 14:12:11,267 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-02-06 ver1 (1).xlsm перемещен в Chan_plan_180620241412
+2024-06-18 14:14:25,469 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-02-06 ver1.xlsm перемещен в Chan_plan_180620241414
+2024-06-18 14:16:07,353 INFO Файл ЦТВ_канальный_и_пакетный_план_2024-06-10v2.xlsm перемещен в Chan_plan_180620241416
+2024-06-19 02:03:08,757 ERROR {'10.92.128.137'}
+Traceback (most recent call last):
+  File "c:\work\MVP\Scripts\dowload_conf\G2x_download_v3.py", line 66, in load_conf_G2X
+    choose_file.send_keys(conf_name)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 347, in execute
+    self.error_handler.check_response(response)
+  File "C:\work\MVP\Scripts\dowload_conf\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\work\IQ\IQAlias_G2X-MSK-Test2-B2.xls
+  (Session info: chrome-headless-shell=120.0.6099.217)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7589D2142+3514994]
+	(No symbol) [0x00007FF7585F0CE2]
+	(No symbol) [0x00007FF7584976AA]
+	(No symbol) [0x00007FF7584DAD00]
+	(No symbol) [0x00007FF758505FEA]
+	(No symbol) [0x00007FF7584D63B6]
+	(No symbol) [0x00007FF758506490]
+	(No symbol) [0x00007FF7585228F6]
+	(No symbol) [0x00007FF758505D93]
+	(No symbol) [0x00007FF7584D4BDC]
+	(No symbol) [0x00007FF7584D5C64]
+	GetHandleVerifier [0x00007FF7589FE16B+3695259]
+	GetHandleVerifier [0x00007FF758A56737+4057191]
+	GetHandleVerifier [0x00007FF758A4E4E3+4023827]
+	GetHandleVerifier [0x00007FF7587204F9+689705]
+	(No symbol) [0x00007FF7585FC048]
+	(No symbol) [0x00007FF7585F8044]
+	(No symbol) [0x00007FF7585F81C9]
+	(No symbol) [0x00007FF7585E88C4]
+	BaseThreadInitThunk [0x00007FF912BC7344+20]
+	RtlUserThreadStart [0x00007FF914BA26B1+33]
+
+2024-06-19 02:07:38,521 INFO 10.92.128.137 File successfully transferred and saved!
+2024-06-19 02:09:15,946 INFO 10.92.128.137 File successfully transferred and saved!
+2024-06-19 02:10:45,688 INFO 10.92.128.137 File successfully transferred and saved!
+2024-06-19 02:13:41,968 INFO 10.92.128.137 File successfully transferred and saved!
